@@ -6,7 +6,7 @@ hide: true
 
 ### Me and Team
 
-Hi! My name is Ishaan Saravgi.
+Hi! My name is Ishaan Saravgi
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
